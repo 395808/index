@@ -402,7 +402,7 @@ function changeMenu(btn) {
 
 // 切换壁纸
 function changeBack() {
-    window.location.href = "https://dolyw.com?rand=true";
+    window.location.href = "https://395808.github.io/index?rand=true";
 }
 
 // 浏览器切换事件
